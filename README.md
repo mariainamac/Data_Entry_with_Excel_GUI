@@ -9,7 +9,9 @@ Used the following libraries:
 
 About: This is a guided project data entry app using GUI and excel sheet. We have fields whereby, users can fill in their information and after clicking submit, they can view them on the window table view. At the same time, the data will be stored and mapped inside an excel sheet for data storage.
 
-Prospect project: My prospect for learning this project is to create an app whereby, I could insert data to track and do analysis on the followings;
+Prospect project: My prospect for learning this project is to create an app whereby, I can insert data to track and analyze for future decision makings. 
+
+Here are my related potential future projects that I might consider creating:
 - Travel budgets tracker
 - Financial budget tracker
 - Health & wellness tracker
